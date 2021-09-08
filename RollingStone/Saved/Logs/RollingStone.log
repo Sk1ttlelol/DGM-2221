@@ -1,0 +1,1578 @@
+﻿Log file open, 09/08/21 13:19:55
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: RollingStone
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194249
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.08-19.19.55:582][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.08-19.19.55:582][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:583][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:586][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.08-19.19.55:586][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.08-19.19.55:587][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.08-19.19.55:587][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.08-19.19.55:587][  0]LogHAL: Display: Platform has ~ 32 GB [34138349568 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.08-19.19.55:587][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.08-19.19.55:587][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Scalability.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Engine.ini]
+[2021.09.08-19.19.55:588][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Config/Windows/Editor.ini]
+[2021.09.08-19.19.55:588][  0]LogInit: Computer: DESKTOP-P42OQMS
+[2021.09.08-19.19.55:588][  0]LogInit: User: Owner
+[2021.09.08-19.19.55:588][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.09.08-19.19.55:588][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.08-19.19.55:588][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.09.08-19.19.55:588][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.08-19.19.55:588][  0]LogMemory: Process Physical Memory: 139.91 MB used, 139.91 MB peak
+[2021.09.08-19.19.55:588][  0]LogMemory: Process Virtual Memory: 121.22 MB used, 121.22 MB peak
+[2021.09.08-19.19.55:588][  0]LogMemory: Physical Memory: 8627.17 MB used,  23929.70 MB free, 32556.87 MB total
+[2021.09.08-19.19.55:588][  0]LogMemory: Virtual Memory: 134189256.00 MB used,  28471.95 MB free, 134217728.00 MB total
+[2021.09.08-19.19.55:591][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.08-19.19.55:618][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.08-19.19.55:618][  0]LogInit: Using OS detected language (en-US).
+[2021.09.08-19.19.55:618][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.08-19.19.55:621][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.09.08-19.19.55:756][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.08-19.19.55:765][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.08-19.19.55:772][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.08-19.19.55:772][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.08-19.19.55:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.08-19.19.55:890][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.08-19.19.55:890][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.08-19.19.55:890][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.08-19.19.55:984][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti' (Feature Level 11_0)
+[2021.09.08-19.19.55:984][  0]LogD3D11RHI:       3962/0/16278 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.08-19.19.56:004][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.09.08-19.19.56:004][  0]LogD3D11RHI:       128/0/16278 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.09.08-19.19.56:006][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.08-19.19.56:006][  0]LogD3D11RHI:       0/0/16278 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.08-19.19.56:006][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.08-19.19.56:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.08-19.19.56:010][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.08-19.19.56:010][  0]LogWindows: EnumDisplayDevices:
+[2021.09.08-19.19.56:010][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.09.08-19.19.56:010][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.09.08-19.19.56:010][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.09.08-19.19.56:010][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.09.08-19.19.56:011][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.09.08-19.19.56:011][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.09.08-19.19.56:011][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.09.08-19.19.56:011][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.09.08-19.19.56:011][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2021.09.08-19.19.56:011][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.09.08-19.19.56:011][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.09.08-19.19.56:011][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.09.08-19.19.56:077][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.08-19.19.56:077][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.08-19.19.56:077][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.08-19.19.56:096][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.09.08-19.19.56:097][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.08-19.19.56:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.08-19.19.56:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.08-19.19.56:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.08-19.19.56:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.08-19.19.56:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.08-19.19.56:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.08-19.19.56:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.08-19.19.56:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.08-19.19.56:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.08-19.19.56:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.08-19.19.56:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.08-19.19.56:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.08-19.19.56:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.08-19.19.56:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.08-19.19.56:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.08-19.19.56:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.08-19.19.56:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.08-19.19.56:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.08-19.19.56:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.08-19.19.56:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.08-19.19.56:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.08-19.19.56:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.08-19.19.56:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.08-19.19.56:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.08-19.19.56:465][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.08-19.19.56:504][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.08-19.19.56:504][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Intermediate/Shaders/WorkingDirectory/1456/).
+[2021.09.08-19.19.56:504][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/E70B138144418239E12D0BBA5F5D53E7/'.
+[2021.09.08-19.19.56:504][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.08-19.19.56:504][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.08-19.19.57:146][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/Owner/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.08-19.19.57:185][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.08-19.19.57:194][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.08-19.19.57:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.08-19.19.57:194][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.08-19.19.57:200][  0]LogDerivedDataCache: Speed tests for C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.08-19.19.57:200][  0]LogDerivedDataCache: Display: Performance to C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1700.86MBs, RandomWriteSpeed=213.13MBs. Assigned SpeedClass 'Local'
+[2021.09.08-19.19.57:200][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.08-19.19.57:201][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.08-19.19.57:201][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.08-19.19.57:241][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.08-19.19.57:242][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.08-19.19.57:267][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.09.08-19.19.57:479][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.08-19.19.57:479][  0]LogInit: Active device profile: [000002A6BDAEA200][000002A6BC9BC3C0 49] Windows
+[2021.09.08-19.19.57:479][  0]LogInit: Profiles: [000002A6BDAEA200][000002A6BC9BC3C0 49] Windows, [000002A6BDA6A200][000002A6BE9D4540 49] WindowsNoEditor, [000002A6BDAE9600][000002A6BE9D86C0 49] WindowsServer, [000002A6BDA69400][000002A6BE9DC840 49] WindowsClient, [000002A6BDAE9D00][000002A6BE9E09C0 49] IOS, [000002A6BDA6A600][000002A6BE9E4B40 49] iPadAir, [000002A6BDAEA500][000002A6BE9E8CC0 49] iPadAir2, [000002A6BE962000][000002A6BEA40F80 49] IPadPro, [000002A6BE962100][000002A6BEA38FC0 49] iPadAir3, [000002A6BDA69200][000002A6BEA45140 49] iPadAir4, [000002A6BE963900][000002A6BEA492C0 49] iPadMini2, [000002A6BDA68500][000002A6BEA4D440 49] iPadMini3, [000002A6BE961400][000002A6BE9D1580 49] iPadMini4, [000002A6BDA6AA00][000002A6BEA516C0 49] iPadMini5, [000002A6BE979900][000002A6BEA59900 49] iPhone6, [000002A6BE979A00][000002A6BEA55940 49] iPodTouch6, [000002A6BE963E00][000002A6BEA65C00 49] iPhone7, [000002A6BE961F00][000002A6BEA61C40 49] iPodTouch7, [000002A6BE97B100][000002A6BEA68100 49] iPhone5S, [000002A6BE963100][000002A6BEA6C280 49] iPhone6Plus, [000002A6BE979600][000002A6BEA70400 49] iPhone6S, [000002A6BE960E00][000002A6BEA74580 49] iPhone6SPlus, [000002A6BE978700][000002A6BEA78700 49] iPhone7Plus, [000002A6BE960A00][000002A6BEA7C880 49] iPhoneSE, [000002A6BE97A900][000002A6BEA80A00 49] iPhone8, [000002A6BE962800][000002A6BEA84B80 49] iPhone8Plus, [000002A6BE978300][000002A6BEA88D00 49] iPhoneX, [000002A6BE962F00][000002A6BEA8CE80 49] iPhoneXS, [000002A6BE97A800][000002A6BEA91000 49] iPhoneXSMax, [000002A6BE963C00][000002A6BEA95180 49] iPhoneXR, [000002A6BE978D00][000002A6BEA99300 49] iPhone11, [000002A6BE962700][000002A6BEA9D480 49] iPhone11Pro, [000002A6BE97A700][000002A6BEAA1600 49] iPhone11ProMax, [000002A6BE963600][000002A6BEA5D740 49] iPhoneSE2, [000002A6BE97A400][000002A6BEAA5880 49] iPhone12Mini, [000002A6BE963A00][000002A6BEAA99C0 49] iPhone12, [000002A6BE97A100][000002A6BEAB1B40 49] iPhone12Pro, [000002A6BE961E00][000002A6BEAB5CC0 49] iPhone12ProMax, [000002A6BDAEA700][000002A6BEAB8180 49] iPadPro105, [000002A6BE962D00][000002A6BEAC0300 49] iPadPro129, [000002A6BDAEAD00][000002A6BEAC4480 49] iPadPro97, [000002A6BE961000][000002A6BEAC8600 49] iPadPro2_129, [000002A6BDAEB200][000002A6BEB28780 49] iPad5, [000002A6BE961100][000002A6BEB2C900 49] iPad6, [000002A6BDAEAA00][000002A6BEB30A80 49] iPad7, [000002A6BE963F00][000002A6BEB34C00 49] iPad8, [000002A6BDAEA000][000002A6BEB38D80 49] iPadPro11, [000002A6BE961200][000002A6BEB3CF00 49] iPadPro2_11, [000002A6BDAE8500][000002A6BEB41080 49] iPadPro3_129, [000002A6BE962B00][000002A6BEB45200 49] iPadPro4_129, [000002A6BDAE9100][000002A6BEB49380 49] AppleTV, [000002A6BE961B00][000002A6BEB7D500 49] AppleTV4K, [000002A6BDAE8400][000002A6BEBB1680 49] TVOS, [000002A6BE960900][000002A6BEAAD7C0 49] Mac, [000002A6BDAE9800][000002A6BEBD9900 49] MacClient, [000002A6BE962400][000002A6BEBE9A40 49] MacNoEditor, [000002A6BDAE8300][000002A6BEBF9B80 49] MacServer, [000002A6BE961500][000002A6BEC53D00 49] Linux, [000002A6BDAE8C00][000002A6BEC5E1C0 49] LinuxAArch64, [000002A6BE960500][000002A6BEC62340 49] LinuxNoEditor, [000002A6BDAE8900][000002A6BEC6A4C0 49] LinuxAArch64NoEditor, [000002A6BE961800][000002A6BEC6E640 49] LinuxClient, [000002A6BDAE8700][000002A6BEC727C0 49] LinuxAArch64Client, [000002A6BE963000][000002A6BEC76940 49] LinuxServer, [000002A6BDAEAF00][000002A6BEC7AAC0 49] LinuxAArch64Server, [000002A6BE960600][000002A6BEC7EC40 49] Android, [000002A6BDAEAE00][000002A6BEC82DC0 49] Android_Low, [000002A6BE961300][000002A6BEC86F40 49] Android_Mid, [000002A6BDAEB600][000002A6BEC8B0C0 49] Android_High, [000002A6BE961D00][000002A6BEC8F240 49] Android_Default, [000002A6BDAEB100][000002A6BED013C0 49] Android_Adreno4xx, [000002A6BE962C00][000002A6BED17540 49] Android_Adreno5xx_Low, [000002A6BDAE8200][000002A6BED1B6C0 49] Android_Adreno5xx, [000002A6BE960C00][000002A6BEC4F800 49] Android_Adreno6xx, [000002A6BDAEAC00][000002A6BED1F940 49] Android_Adreno6xx_Vulkan, [000002A6BE961900][000002A6BED23A80 49] Android_Mali_T6xx, [000002A6BDAE9E00][000002A6BED27BC0 49] Android_Mali_T7xx, [000002A6BE961700][000002A6BED2FD40 49] Android_Mali_T8xx, [000002A6BDAE8A00][000002A6BED32200 49] Android_Mali_G71, [000002A6BDA6A700][000002A6BED36380 49] Android_Mali_G72, [000002A6BE97AC00][000002A6BED3A500 49] Android_Mali_G72_Vulkan, [000002A6BDA6AD00][000002A6BED8E680 49] Android_Mali_G76, [000002A6BE978400][000002A6BEDB2800 49] Android_Mali_G76_Vulkan, [000002A6BDA6A300][000002A6BEDB6980 49] Android_Mali_G77, [000002A6BE978200][000002A6BF60AB00 49] Android_Mali_G77_Vulkan, [000002A6BDA68E00][000002A6BF666C80 49] Android_Vulkan_SM5, [000002A6BE97BD00][000002A6BF66AE00 49] Android_PowerVR_G6xxx, [000002A6BDA6B200][000002A6BF66EF80 49] Android_PowerVR_GT7xxx, [000002A6BE979800][000002A6BF673100 49] Android_PowerVR_GE8xxx, [000002A6BDA6B300][000002A6BF677280 49] Android_PowerVR_GM9xxx, [000002A6BE97AF00][000002A6BF67B400 49] Android_PowerVR_GM9xxx_Vulkan, [000002A6BDA6BF00][000002A6BF67F580 49] Android_TegraK1, [000002A6BE978800][000002A6BF683700 49] Android_Unknown_Vulkan, [000002A6BDA6AF00][000002A6BF687880 49] Lumin, [000002A6BE978500][000002A6BED2B9C0 49] Lumin_Desktop, [000002A6BDA6A500][000002A6BF715B00 49] HoloLens, 
+[2021.09.08-19.19.57:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.08-19.19.57:583][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.08-19.19.57:583][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.08-19.19.57:583][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.08-19.19.57:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.08-19.19.57:597][  0]LogNetVersion: RollingStone 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3627963816)
+[2021.09.08-19.19.57:925][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.08-19.19.57:949][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.023373 seconds
+[2021.09.08-19.19.57:953][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.08-19.19.57:953][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.08-19.19.57:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.08-19.19.58:213][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.08-19.19.58:225][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.08-19.19.58:326][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.58:326][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.58:328][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.58:333][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.58:337][  0]LogUProjectInfo: Found projects:
+[2021.09.08-19.19.58:342][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.58:454][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.08-19.19.58:466][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.08-19.19.58:466][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.08-19.19.58:498][  0]LogCollectionManager: Loaded 0 collections in 0.001076 seconds
+[2021.09.08-19.19.58:520][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Collections/' took 0.00s
+[2021.09.08-19.19.58:520][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Developers/Owner/Collections/' took 0.00s
+[2021.09.08-19.19.58:520][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Collections/' took 0.00s
+[2021.09.08-19.19.58:520][  0]LogOcInput: OculusInput pre-init called
+[2021.09.08-19.19.58:528][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.08-19.19.58:528][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.08-19.19.58:564][  0]LogEngine: Initializing Engine...
+[2021.09.08-19.19.58:565][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.08-19.19.58:566][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.08-19.19.58:566][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.08-19.19.58:646][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.08-19.19.58:652][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.08-19.19.58:659][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.08-19.19.58:662][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.08-19.19.58:662][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.08-19.19.58:662][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.08-19.19.58:662][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.08-19.19.58:662][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.08-19.19.58:671][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.08-19.19.58:671][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.08-19.19.58:697][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.09.08-19.19.58:699][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.08-19.19.58:700][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.08-19.19.58:700][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.08-19.19.58:701][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.08-19.19.58:701][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.08-19.19.58:701][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.08-19.19.58:702][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.08-19.19.58:702][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.08-19.19.58:702][  0]LogInit: FAudioDevice initialized.
+[2021.09.08-19.19.58:702][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.08-19.19.58:702][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.08-19.19.58:737][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Owner/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.08-19.19.58:738][  0]LogInit: Texture streaming: Enabled
+[2021.09.08-19.19.58:745][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.08-19.19.58:748][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.08-19.19.58:748][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.08-19.19.58:749][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.08-19.19.58:759][  0]LogInit: Transaction tracking system initialized
+[2021.09.08-19.19.58:772][  0]BlueprintLog: New page: Editor Load
+[2021.09.08-19.19.58:829][  0]LocalizationService: Localization service is disabled
+[2021.09.08-19.19.58:843][  0]TimingProfiler: Initialize
+[2021.09.08-19.19.58:843][  0]TimingProfiler: OnSessionChanged
+[2021.09.08-19.19.58:843][  0]LoadingProfiler: Initialize
+[2021.09.08-19.19.58:843][  0]LoadingProfiler: OnSessionChanged
+[2021.09.08-19.19.58:843][  0]NetworkingProfiler: Initialize
+[2021.09.08-19.19.58:843][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.08-19.19.58:843][  0]MemoryProfiler: Initialize
+[2021.09.08-19.19.58:843][  0]MemoryProfiler: OnSessionChanged
+[2021.09.08-19.19.58:961][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.08-19.19.58:961][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.08-19.19.59:023][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/' took 0.00s
+[2021.09.08-19.19.59:186][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.08-19.19.59:190][  0]SourceControl: Source control is disabled
+[2021.09.08-19.19.59:190][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.285
+[2021.09.08-19.19.59:195][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.09.08-19.19.59:195][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.19.59:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.19.59:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.08-19.19.59:198][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.09.08-19.19.59:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.09.08-19.19.59:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.09.08-19.19.59:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.09.08-19.19.59:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.09.08-19.19.59:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.09.08-19.19.59:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.09.08-19.19.59:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.09.08-19.19.59:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.09.08-19.19.59:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.09.08-19.19.59:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.09.08-19.19.59:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.09.08-19.19.59:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.09.08-19.19.59:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.09.08-19.19.59:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.09.08-19.19.59:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.09.08-19.19.59:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.09.08-19.19.59:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.09.08-19.19.59:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Fire01.uasset"
+[2021.09.08-19.19.59:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.09.08-19.19.59:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.09.08-19.19.59:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.09.08-19.19.59:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Light01.uasset"
+[2021.09.08-19.19.59:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.09.08-19.19.59:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Light02.uasset"
+[2021.09.08-19.19.59:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.09.08-19.19.59:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.09.08-19.19.59:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.09.08-19.19.59:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.09.08-19.19.59:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.09.08-19.19.59:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.09.08-19.19.59:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.09.08-19.19.59:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.09.08-19.19.59:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.09.08-19.19.59:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Steam01.uasset"
+[2021.09.08-19.19.59:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.09.08-19.19.59:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.09.08-19.19.59:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.09.08-19.19.59:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.09.08-19.19.59:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.09.08-19.19.59:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.09.08-19.19.59:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.09.08-19.19.59:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.09.08-19.19.59:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.09.08-19.19.59:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.09.08-19.19.59:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.09.08-19.19.59:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.09.08-19.19.59:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.09.08-19.19.59:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.09.08-19.19.59:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.09.08-19.19.59:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.09.08-19.19.59:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.09.08-19.19.59:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.09.08-19.19.59:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.09.08-19.19.59:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.09.08-19.19.59:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.09.08-19.19.59:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.09.08-19.19.59:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/StarterMap.umap"
+[2021.09.08-19.19.59:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.09.08-19.19.59:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.09.08-19.19.59:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.09.08-19.19.59:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.09.08-19.19.59:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.09.08-19.19.59:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.09.08-19.19.59:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.09.08-19.19.59:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.09.08-19.19.59:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.09.08-19.19.59:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.09.08-19.19.59:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.09.08-19.19.59:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.09.08-19.19.59:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.09.08-19.19.59:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.09.08-19.19.59:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.09.08-19.19.59:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.09.08-19.19.59:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.09.08-19.19.59:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.09.08-19.19.59:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.09.08-19.19.59:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.09.08-19.19.59:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.09.08-19.19.59:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.09.08-19.19.59:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.09.08-19.19.59:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.09.08-19.19.59:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.09.08-19.19.59:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.09.08-19.19.59:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.09.08-19.19.59:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.09.08-19.19.59:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.09.08-19.19.59:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.09.08-19.19.59:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.09.08-19.19.59:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.09.08-19.19.59:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.09.08-19.19.59:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.09.08-19.19.59:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.09.08-19.19.59:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.09.08-19.19.59:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.09.08-19.19.59:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.09.08-19.19.59:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.09.08-19.19.59:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.09.08-19.19.59:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.09.08-19.19.59:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.09.08-19.19.59:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.09.08-19.19.59:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.09.08-19.19.59:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.09.08-19.19.59:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.09.08-19.19.59:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.09.08-19.19.59:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.09.08-19.19.59:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.09.08-19.19.59:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.09.08-19.19.59:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.09.08-19.19.59:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.09.08-19.19.59:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.09.08-19.19.59:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.09.08-19.19.59:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.09.08-19.19.59:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.09.08-19.19.59:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.09.08-19.19.59:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.09.08-19.19.59:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.09.08-19.19.59:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.09.08-19.19.59:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.09.08-19.19.59:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.09.08-19.19.59:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.09.08-19.19.59:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.09.08-19.19.59:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.09.08-19.19.59:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Door.uasset"
+[2021.09.08-19.19.59:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.09.08-19.19.59:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.09.08-19.19.59:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.09.08-19.19.59:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.09.08-19.19.59:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.09.08-19.19.59:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.09.08-19.19.59:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.09.08-19.19.59:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.09.08-19.19.59:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.09.08-19.19.59:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.09.08-19.19.59:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.09.08-19.19.59:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.09.08-19.19.59:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.09.08-19.19.59:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.09.08-19.19.59:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.09.08-19.19.59:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.09.08-19.19.59:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.09.08-19.19.59:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.09.08-19.19.59:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.09.08-19.19.59:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.09.08-19.19.59:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.09.08-19.19.59:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.09.08-19.19.59:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.09.08-19.19.59:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.09.08-19.19.59:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.09.08-19.19.59:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.09.08-19.19.59:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.09.08-19.19.59:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.09.08-19.19.59:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.09.08-19.19.59:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.09.08-19.19.59:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.09.08-19.19.59:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.09.08-19.19.59:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.09.08-19.19.59:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.09.08-19.19.59:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.09.08-19.19.59:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.09.08-19.19.59:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.09.08-19.19.59:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.09.08-19.19.59:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.09.08-19.19.59:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.09.08-19.19.59:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.09.08-19.19.59:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.09.08-19.19.59:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.09.08-19.19.59:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.09.08-19.19.59:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.09.08-19.19.59:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.09.08-19.19.59:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.09.08-19.19.59:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.09.08-19.19.59:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.09.08-19.19.59:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.09.08-19.19.59:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.09.08-19.19.59:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.09.08-19.19.59:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.09.08-19.19.59:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.09.08-19.19.59:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.09.08-19.19.59:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.09.08-19.19.59:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.09.08-19.19.59:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.09.08-19.19.59:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.09.08-19.19.59:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.09.08-19.19.59:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.09.08-19.19.59:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.09.08-19.19.59:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.09.08-19.19.59:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.09.08-19.19.59:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.09.08-19.19.59:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.09.08-19.19.59:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.09.08-19.19.59:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.09.08-19.19.59:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.09.08-19.19.59:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.09.08-19.19.59:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.09.08-19.19.59:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.09.08-19.19.59:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.09.08-19.19.59:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.09.08-19.19.59:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.09.08-19.19.59:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.09.08-19.19.59:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.09.08-19.19.59:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.09.08-19.19.59:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.09.08-19.19.59:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.09.08-19.19.59:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.09.08-19.19.59:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.09.08-19.19.59:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.09.08-19.19.59:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.09.08-19.19.59:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.09.08-19.19.59:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.09.08-19.19.59:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.09.08-19.19.59:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.09.08-19.19.59:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.09.08-19.19.59:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.09.08-19.19.59:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.09.08-19.19.59:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.09.08-19.19.59:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.09.08-19.19.59:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.09.08-19.19.59:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.09.08-19.19.59:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.09.08-19.19.59:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.09.08-19.19.59:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.09.08-19.19.59:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.09.08-19.19.59:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.09.08-19.19.59:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.09.08-19.19.59:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.09.08-19.19.59:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.09.08-19.19.59:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.09.08-19.19.59:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.09.08-19.19.59:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.09.08-19.19.59:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.09.08-19.19.59:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.09.08-19.19.59:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.09.08-19.19.59:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.09.08-19.19.59:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.09.08-19.19.59:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.09.08-19.19.59:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.09.08-19.19.59:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.09.08-19.19.59:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.09.08-19.19.59:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.09.08-19.19.59:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.09.08-19.19.59:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.09.08-19.19.59:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.09.08-19.19.59:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.09.08-19.19.59:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.09.08-19.19.59:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.09.08-19.19.59:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.09.08-19.19.59:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.09.08-19.19.59:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.09.08-19.19.59:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.09.08-19.19.59:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.09.08-19.19.59:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.09.08-19.19.59:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.09.08-19.19.59:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.09.08-19.19.59:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.09.08-19.19.59:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.09.08-19.19.59:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.09.08-19.19.59:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.09.08-19.19.59:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.09.08-19.19.59:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.09.08-19.19.59:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.09.08-19.19.59:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.09.08-19.19.59:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.09.08-19.19.59:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.09.08-19.19.59:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.09.08-19.19.59:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.09.08-19.19.59:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.09.08-19.19.59:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.09.08-19.19.59:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.09.08-19.19.59:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.09.08-19.19.59:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.09.08-19.20.00:032][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.09.08-19.20.00:360][  0]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Floor_400x400FB9F142D45C2ACC25E2235938F76C5D0.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.09.08-19.20.00:361][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.09.08-19.20.00:361][  0]Cmd: MAP LOAD FILE="D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.08-19.20.00:361][  0]LightingResults: New page: Lighting Build
+[2021.09.08-19.20.00:362][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-19.20.00:362][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-19.20.00:362][  0]MapCheck: New page: Map Check
+[2021.09.08-19.20.00:362][  0]LightingResults: New page: Lighting Build
+[2021.09.08-19.20.00:368][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.08-19.20.00:538][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.09.08-19.20.00:614][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.09.08-19.20.00:615][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.08-19.20.00:630][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.08-19.20.00:636][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.08-19.20.00:636][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.08-19.20.00:636][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2021.09.08-19.20.00:636][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.275
+[2021.09.08-19.20.00:637][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.732
+[2021.09.08-19.20.00:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.20.00:755][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.20.00:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.20.00:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.20.00:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3601 classes and 859 folders.
+[2021.09.08-19.20.00:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.08-19.20.00:793][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.08-19.20.00:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.08-19.20.00:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.08-19.20.00:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.08-19.20.00:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.08-19.20.00:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.08-19.20.00:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.08-19.20.00:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.08-19.20.00:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.08-19.20.00:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.08-19.20.00:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.08-19.20.00:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.08-19.20.00:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.08-19.20.00:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.08-19.20.00:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.08-19.20.00:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.08-19.20.00:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.08-19.20.00:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.08-19.20.00:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.08-19.20.00:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.08-19.20.00:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.08-19.20.00:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.08-19.20.00:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.08-19.20.00:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.08-19.20.00:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.08-19.20.00:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.08-19.20.00:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.09.08-19.20.00:804][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.08-19.20.00:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.08-19.20.00:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.08-19.20.00:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.09.08-19.20.00:830][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.08-19.20.00:837][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.09.08-19.20.00:912][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.08-19.20.00:913][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.08-19.20.00:961][  0]LogRenderer: Reallocating scene render targets to support 896x488 Format 10 NumSamples 1 (Frame:1).
+[2021.09.08-19.20.01:030][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.08-19.20.01:031][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.09.08-19.20.01:031][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.09.08-19.20.01:031][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.09.08-19.20.01:031][  0]LogLoad: (Engine Initialization) Total time: 6.13 seconds
+[2021.09.08-19.20.01:031][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.08-19.20.01:031][  0]LogInit: First time updating LLM stats...
+[2021.09.08-19.20.01:054][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.09.08-19.20.01:054][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.09.08-19.20.01:070][  0]LogAssetRegistry: Asset discovery search completed in 3.8045 seconds
+[2021.09.08-19.20.01:071][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.09.08-19.20.01:116][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.08-19.20.08:724][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.20.08:791][455]LogSlate: Took 0.001050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.08-19.20.58:761][422]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.09.08-19.20.58:765][422]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.09.08-19.21.11:779][196]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.21.30:039][285]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-19.21.31:297][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-19.21.38:420][785]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.08-19.21.48:264][373]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-19.22.18:760][199]LogSlate: Window 'Select Path' being destroyed
+[2021.09.08-19.22.18:788][199]LogStaticMesh: Building static mesh Player...
+[2021.09.08-19.22.18:800][199]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Player.Player
+[2021.09.08-19.22.18:802][199]LogActorFactory: Actor Factory created Player
+[2021.09.08-19.22.18:818][199]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SphereBrush' is marked pending kill and cannot be converted
+[2021.09.08-19.22.18:818][199]EditorErrors: New page: Actor Reattachment
+[2021.09.08-19.22.18:824][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.09.08-19.22.20:944][325]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.08-19.22.38:142][355]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Player.Player
+[2021.09.08-19.22.38:543][355]LogSlate: Took 0.001660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.08-19.22.58:211][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Player" FILE="D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Player.uasset" SILENT=true
+[2021.09.08-19.22.58:217][532]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/PlayerE06DBDFC426BBF95427FF1BB00344629.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Player.uasset'
+[2021.09.08-19.22.58:225][532]AssetCheck: New page: Asset Save: Player
+[2021.09.08-19.22.58:225][532]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Player.Player
+[2021.09.08-19.22.59:826][628]LogSlate: Window 'Player' being destroyed
+[2021.09.08-19.22.59:832][628]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-19.22.59:832][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-19.23.02:167][767]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.23.25:983][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Player)
+[2021.09.08-19.23.27:210][263]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Player)
+[2021.09.08-19.23.32:695][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Player)
+[2021.09.08-19.23.40:898][ 79]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.24.48:514][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Player)
+[2021.09.08-19.24.56:569][606]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.28.34:159][915]LogContentBrowser: Deferred new asset file creation: ThirdPersonCharacter1
+[2021.09.08-19.28.34:172][915]LogContentBrowser: Creating deferred item: ThirdPersonCharacter1
+[2021.09.08-19.28.46:677][666]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter1 -> Ball_Character
+[2021.09.08-19.28.46:694][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.08-19.28.46:707][666]LogContentBrowser: End creating deferred item ThirdPersonCharacter1
+[2021.09.08-19.28.49:001][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ball_Character.Ball_Character
+[2021.09.08-19.28.49:140][802]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.08-19.28.49:833][802]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.08-19.28.53:137][993]LogSlate: Window 'Ball_Character' being destroyed
+[2021.09.08-19.29.18:024][395]LogRenderer: Reallocating scene render targets to support 912x680 Format 10 NumSamples 1 (Frame:1).
+[2021.09.08-19.30.01:414][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.09.08-19.30.01:430][124]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto14352E2794EE88D13B1C677869B432849.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.09.08-19.30.01:431][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.09.08-19.30.01:431][124]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.08-19.30.01:431][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Ball_Character] ([1] browsable assets)...
+[2021.09.08-19.30.01:460][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Ball_Character.Ball_Character]
+[2021.09.08-19.30.01:460][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Ball_Character]
+[2021.09.08-19.30.01:479][124]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Ball_Character_Auto14558CC3748B7B4D6E401269866A0D64A.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Ball_Character_Auto1.uasset'
+[2021.09.08-19.30.01:479][124]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.09.08-19.31.02:375][947]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-19.31.02:375][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-19.31.05:347][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.09.08-19.31.06:558][120]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.08-19.31.06:663][120]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Ball_Character.Ball_Character
+[2021.09.08-19.31.07:087][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.09.08-19.31.07:122][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.08-19.31.08:502][200]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-19.31.09:010][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Player)
+[2021.09.08-19.31.09:958][285]Cmd: DELETE
+[2021.09.08-19.31.09:958][285]Cmd: ACTOR DELETE
+[2021.09.08-19.31.09:961][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.31.09:978][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.09.08-19.31.09:979][285]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.09.08-19.31.27:384][327]LogSlate: Window 'Select Path' being destroyed
+[2021.09.08-19.35.48:096][476]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.08-19.35.48:100][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.08-19.35.48:102][476]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 8, 2021, 7:35:48 AM)
+[2021.09.08-19.35.48:103][476]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.08-19.35.48:105][476]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.08-19.35.48:105][476]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.08-19.35.48:115][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010625s)
+[2021.09.08-19.35.48:116][476]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.08-19.35.48:117][476]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2021.09.08-19.35.48:117][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012236s)
+[2021.09.08-19.35.48:135][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.09.08-19.35.48:143][476]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.08-19.35.48:143][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.08-19.35.48:143][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.08-19.35.48:144][476]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.08-19.35.48:144][476]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.08-19.35.48:146][476]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.08-19.35.48:146][476]LogAudioMixer: Display: 1: FrontRight
+[2021.09.08-19.35.48:150][476]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.09.08-19.35.48:151][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.08-19.35.48:151][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.08-19.35.48:151][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.08-19.35.48:151][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.08-19.35.48:151][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.08-19.35.48:151][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.08-19.35.48:163][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.08-19.35.48:163][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.08-19.35.48:164][476]LogInit: FAudioDevice initialized.
+[2021.09.08-19.35.48:164][476]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.09.08-19.35.48:182][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.08-19.35.48:185][476]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.08-13.35.48
+[2021.09.08-19.35.48:186][476]LogWorld: Bringing up level for play took: 0.001488
+[2021.09.08-19.35.48:186][476]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.08-19.35.48:192][476]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.08-19.35.48:193][476]PIE: Server logged in
+[2021.09.08-19.35.48:194][476]PIE: Play in editor total start time 0.095 seconds.
+[2021.09.08-19.35.58:916][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.35.58:916][103]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.08-19.35.58:917][103]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-19.35.58:917][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-19.35.58:923][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.08-19.35.58:936][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-19.35.58:950][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.08-19.35.58:950][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.08-19.35.58:951][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.08-19.35.59:004][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.08-19.35.59:023][104]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.08-19.36.04:501][432]Cmd: DELETE
+[2021.09.08-19.36.04:501][432]Cmd: ACTOR DELETE
+[2021.09.08-19.36.04:503][432]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-19.36.04:539][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.09.08-19.36.04:542][432]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.09.08-19.36.06:802][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.36.07:303][597]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.36.20:653][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.09.08-19.36.21:546][446]Cmd: DELETE
+[2021.09.08-19.36.21:546][446]Cmd: ACTOR DELETE
+[2021.09.08-19.36.21:547][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.36.21:562][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.09.08-19.36.21:565][446]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.08-19.36.22:102][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.09.08-19.36.22:201][484]Cmd: DELETE
+[2021.09.08-19.36.22:201][484]Cmd: ACTOR DELETE
+[2021.09.08-19.36.22:203][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.36.22:217][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.08-19.36.22:217][484]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.36.22:728][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.09.08-19.36.22:843][521]Cmd: DELETE
+[2021.09.08-19.36.22:843][521]Cmd: ACTOR DELETE
+[2021.09.08-19.36.22:845][521]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.36.22:858][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.09.08-19.36.22:858][521]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.36.23:219][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.09.08-19.36.23:334][549]Cmd: DELETE
+[2021.09.08-19.36.23:334][549]Cmd: ACTOR DELETE
+[2021.09.08-19.36.23:335][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.36.23:349][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.09.08-19.36.23:349][549]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.36.30:571][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.36.44:194][798]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.08-19.36.44:645][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.36.45:218][856]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.08-19.36.58:885][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.37.10:745][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.09.08-19.37.10:759][382]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap2D4E428A403E4EE7C015339A9BB1383F.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.08-19.37.10:812][382]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_BuiltData262180BC470A493DC5D87AB366392408.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.08-19.37.10:822][382]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.08-19.37.10:822][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.08-19.37.10:822][382]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.08-19.38.19:979][532]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.08-19.38.28:081][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-19.38.33:707][352]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.09.08-19.38.47:138][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.08-19.38.47:856][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-19.38.51:106][394]Cmd: DELETE
+[2021.09.08-19.38.51:107][394]Cmd: ACTOR DELETE
+[2021.09.08-19.38.51:108][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.51:126][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.08-19.38.51:129][394]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.09.08-19.38.51:500][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.09.08-19.38.51:869][438]Cmd: DELETE
+[2021.09.08-19.38.51:869][438]Cmd: ACTOR DELETE
+[2021.09.08-19.38.51:870][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.51:884][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.08-19.38.51:884][438]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.38.52:271][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.09.08-19.38.52:373][467]Cmd: DELETE
+[2021.09.08-19.38.52:373][467]Cmd: ACTOR DELETE
+[2021.09.08-19.38.52:374][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.52:387][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.08-19.38.52:387][467]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.38.52:859][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2021.09.08-19.38.53:008][504]Cmd: DELETE
+[2021.09.08-19.38.53:008][504]Cmd: ACTOR DELETE
+[2021.09.08-19.38.53:009][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.53:023][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.08-19.38.53:023][504]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.38.53:460][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2021.09.08-19.38.53:576][537]Cmd: DELETE
+[2021.09.08-19.38.53:576][537]Cmd: ACTOR DELETE
+[2021.09.08-19.38.53:578][537]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.53:592][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.08-19.38.53:592][537]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.08-19.38.54:169][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2021.09.08-19.38.54:322][580]Cmd: DELETE
+[2021.09.08-19.38.54:323][580]Cmd: ACTOR DELETE
+[2021.09.08-19.38.54:324][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.08-19.38.54:337][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.09.08-19.38.54:337][580]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.08-19.38.57:664][780]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2021.09.08-19.39.03:285][117]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.08-19.39.03:717][141]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-19.39.11:833][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.09.08-19.39.11:844][623]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMapB99140564AE2FB31DEB011BF8BAF2FBC.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.08-19.39.11:895][623]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_BuiltData34A461EC468BC3EC6988DAA0CC97CD7C.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.08-19.39.11:905][623]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.08-19.39.11:905][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.08-19.39.11:905][623]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.08-20.16.04:150][903]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.16.05:655][991]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.16.06:532][ 43]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.16.21:527][942]Cmd: EDIT COPY
+[2021.09.08-20.16.21:728][954]Cmd: EDIT PASTE
+[2021.09.08-20.17.20:721][488]Cmd: DELETE
+[2021.09.08-20.17.20:721][488]Cmd: ACTOR DELETE
+[2021.09.08-20.17.20:724][488]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.17.20:740][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.09.08-20.17.20:749][488]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.09.08-20.17.22:624][600]Cmd: EDIT COPY
+[2021.09.08-20.17.22:841][613]Cmd: EDIT PASTE
+[2021.09.08-20.17.44:228][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.17.50:766][274]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush2)
+[2021.09.08-20.17.53:067][411]Cmd: EDIT COPY
+[2021.09.08-20.17.53:351][428]Cmd: EDIT PASTE
+[2021.09.08-20.17.57:803][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.18.04:792][106]Cmd: DELETE
+[2021.09.08-20.18.04:792][106]Cmd: ACTOR DELETE
+[2021.09.08-20.18.04:796][106]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.18.04:811][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.08-20.18.04:820][106]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.09.08-20.18.14:080][653]Cmd: EDCALLBACK SURFPROPS
+[2021.09.08-20.18.34:773][892]Cmd: DELETE
+[2021.09.08-20.18.34:773][892]Cmd: ACTOR DELETE
+[2021.09.08-20.18.34:776][892]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.18.34:791][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.08-20.18.34:800][892]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.09.08-20.18.39:811][192]Cmd: DELETE
+[2021.09.08-20.18.39:811][192]Cmd: ACTOR DELETE
+[2021.09.08-20.18.39:813][192]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.18.39:828][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.09.08-20.18.39:832][192]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.09.08-20.19.04:565][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.08-20.19.04:580][672]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto25DE9E61840F03900D5A2F58721B98C88.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.09.08-20.19.04:580][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2021.09.08-20.19.04:580][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2021.09.08-20.19.34:772][483]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.20.03:277][191]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.08-20.20.32:549][947]Cmd: EDIT COPY
+[2021.09.08-20.20.32:732][958]Cmd: EDIT PASTE
+[2021.09.08-20.20.38:546][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.27.37:700][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.27.38:781][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.27.49:504][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.28.02:074][828]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.08-20.28.21:467][986]Cmd: TRANSACTION UNDO
+[2021.09.08-20.28.21:467][986]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.28.50:139][695]Cmd: TRANSACTION UNDO
+[2021.09.08-20.28.50:139][695]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.28.54:882][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.29.04:191][526]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.29.05:066][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.29.14:112][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.29.18:070][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.30.21:988][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.30.31:777][777]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.30.32:394][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.30.43:229][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.30.45:692][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.30.53:017][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.31.05:462][791]Cmd: TRANSACTION UNDO
+[2021.09.08-20.31.05:462][791]LogEditorTransaction: Undo Scale Actors
+[2021.09.08-20.31.16:313][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.31.42:093][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.09.08-20.31.42:112][977]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto3F3C7282A4EF0AD3276FE6581B35EFF95.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.09.08-20.31.42:112][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.09.08-20.31.42:112][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.08-20.32.21:722][352]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.21:722][352]LogEditorTransaction: Undo Scale Actors
+[2021.09.08-20.32.21:971][365]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.21:971][365]LogEditorTransaction: Undo Scale Actors
+[2021.09.08-20.32.36:224][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.32.54:453][244]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.54:453][244]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.32.54:453][244]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_377' invalid (298 verts, 0 indices).
+[2021.09.08-20.32.54:453][244]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_377.BodySetup_0 when we are unable to.
+[2021.09.08-20.32.55:186][283]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.55:186][283]LogEditorTransaction: Undo Select Brush Surface
+[2021.09.08-20.32.55:649][309]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.55:649][309]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.08-20.32.56:125][337]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.56:125][337]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.32.56:724][372]Cmd: TRANSACTION UNDO
+[2021.09.08-20.32.56:724][372]LogEditorTransaction: Undo Set Scale
+[2021.09.08-20.33.00:704][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.33.10:794][214]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.10:795][214]LogEditorTransaction: Undo Scale Actors
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_360' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_360.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_362' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_362.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_363' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.10:798][214]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_363.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.11:472][249]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.11:472][249]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.33.40:545][989]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.40:545][989]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.33.40:722][997]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.40:722][997]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.33.40:912][  5]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.40:912][  5]LogEditorTransaction: Undo Scale Actors
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_360' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_360.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_362' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_362.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_363' invalid (294 verts, 0 indices).
+[2021.09.08-20.33.40:915][  5]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_363.BodySetup_0 when we are unable to.
+[2021.09.08-20.33.47:143][375]Cmd: TRANSACTION UNDO
+[2021.09.08-20.33.47:143][375]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.34.12:482][890]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.12:482][890]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.34.21:749][441]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.21:749][441]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.34.21:750][441]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361' invalid (294 verts, 0 indices).
+[2021.09.08-20.34.21:750][441]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2021.09.08-20.34.32:046][ 54]Cmd: CLEANBSPMATERIALS
+[2021.09.08-20.34.33:448][ 54]LogSlate: Window 'Message' being destroyed
+[2021.09.08-20.34.33:452][ 54]Message dialog closed, result: Ok, title: Message, text: Cleared 0 BSP material references.  Check log window for further details.
+[2021.09.08-20.34.45:108][754]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.45:108][754]LogEditorTransaction: Undo Edit Y
+[2021.09.08-20.34.45:330][765]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.45:330][765]LogEditorTransaction: Undo Edit Y
+[2021.09.08-20.34.46:223][815]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.46:223][815]LogEditorTransaction: Undo Select Brush Surface
+[2021.09.08-20.34.47:740][904]Cmd: DELETE
+[2021.09.08-20.34.47:740][904]Cmd: ACTOR DELETE
+[2021.09.08-20.34.47:744][904]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.34.47:759][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.09.08-20.34.47:766][904]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.09.08-20.34.49:671][ 18]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.34.52:264][173]Cmd: TRANSACTION UNDO
+[2021.09.08-20.34.52:264][173]LogEditorTransaction: Undo Brush Add
+[2021.09.08-20.34.55:361][355]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.34.56:210][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.35.00:314][651]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.35.18:461][739]Cmd: TRANSACTION UNDO
+[2021.09.08-20.35.18:461][739]LogEditorTransaction: Undo Edit X
+[2021.09.08-20.35.30:147][433]Cmd: TRANSACTION UNDO
+[2021.09.08-20.35.30:147][433]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.35.30:147][433]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_455' invalid (294 verts, 0 indices).
+[2021.09.08-20.35.30:147][433]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_455.BodySetup_0 when we are unable to.
+[2021.09.08-20.36.33:119][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.36.52:030][338]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.37.24:878][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.39.52:890][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.40.02:589][283]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.40.06:177][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.40.33:372][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.40.46:722][923]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.46:722][923]LogEditorTransaction: Undo Rotate Actors
+[2021.09.08-20.40.46:874][930]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.46:874][930]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.47:045][937]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.47:046][937]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.47:232][944]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.47:232][944]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.47:365][950]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.47:365][950]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.47:512][958]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.47:512][958]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.47:724][970]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.47:724][970]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.50:287][123]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.50:287][123]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.50:469][132]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.50:469][132]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.50:665][143]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.50:665][143]LogEditorTransaction: Undo Rotate Actors
+[2021.09.08-20.40.50:874][154]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.50:874][154]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.51:043][163]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.51:043][163]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.51:239][174]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.51:239][174]LogEditorTransaction: Undo Rotate Actors
+[2021.09.08-20.40.51:439][185]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.51:439][185]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.51:640][196]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.51:640][196]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.51:918][212]Cmd: TRANSACTION UNDO
+[2021.09.08-20.40.51:918][212]LogEditorTransaction: Undo Move Actors
+[2021.09.08-20.40.54:096][342]Cmd: TRANSACTION REDO
+[2021.09.08-20.40.54:096][342]LogEditorTransaction: Redo Move Actors
+[2021.09.08-20.40.57:026][517]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.40.58:945][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.41.42:250][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.09.08-20.41.42:270][224]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto4B1C661D74BAE993F184623AC051D5C2A.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.09.08-20.41.42:271][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.09.08-20.41.42:271][224]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.08-20.44.59:667][ 63]LogSlate: Window 'Select Path' being destroyed
+[2021.09.08-20.44.59:690][ 63]LogStaticMesh: Building static mesh Start_Plat...
+[2021.09.08-20.44.59:692][ 63]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Start_Plat.Start_Plat
+[2021.09.08-20.44.59:692][ 63]LogActorFactory: Actor Factory created Start_Plat
+[2021.09.08-20.44.59:711][ 63]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2021.09.08-20.44.59:711][ 63]EditorErrors: New page: Actor Reattachment
+[2021.09.08-20.44.59:729][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.09.08-20.45.07:487][527]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Start_Plat.Start_Plat
+[2021.09.08-20.45.12:939][839]LogSlate: Window 'Start_Plat' being destroyed
+[2021.09.08-20.45.12:943][839]LogSlate: Window 'Start_Plat' being destroyed
+[2021.09.08-20.45.12:976][839]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-20.45.12:976][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-20.45.21:799][364]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Start_Plat.Start_Plat
+[2021.09.08-20.45.28:017][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Start_Plat" FILE="D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Start_Plat.uasset" SILENT=true
+[2021.09.08-20.45.28:022][719]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Start_Plat60D42BCA40D63BED580F14A00306836C.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Start_Plat.uasset'
+[2021.09.08-20.45.28:031][719]AssetCheck: New page: Asset Save: Start_Plat
+[2021.09.08-20.45.28:031][719]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Start_Plat.Start_Plat
+[2021.09.08-20.45.28:983][776]LogSlate: Window 'Start_Plat' being destroyed
+[2021.09.08-20.45.28:989][776]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-20.45.28:989][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-20.45.31:047][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Start_Plat)
+[2021.09.08-20.45.48:147][919]LogSlate: Window 'Select Path' being destroyed
+[2021.09.08-20.45.48:170][919]LogStaticMesh: Building static mesh Thin_Plat...
+[2021.09.08-20.45.48:173][919]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Thin_Plat.Thin_Plat
+[2021.09.08-20.45.48:174][919]LogActorFactory: Actor Factory created Thin_Plat
+[2021.09.08-20.45.48:191][919]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3_17' is marked pending kill and cannot be converted
+[2021.09.08-20.45.48:191][919]EditorErrors: New page: Actor Reattachment
+[2021.09.08-20.45.48:212][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.09.08-20.45.49:319][984]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Thin_Plat.Thin_Plat
+[2021.09.08-20.45.55:787][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Thin_Plat" FILE="D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Thin_Plat.uasset" SILENT=true
+[2021.09.08-20.45.55:793][354]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Thin_PlatCA69004A4F1A9C3ED18BF481C6CEB0DB.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/Geometry/Thin_Plat.uasset'
+[2021.09.08-20.45.55:800][354]AssetCheck: New page: Asset Save: Thin_Plat
+[2021.09.08-20.45.55:800][354]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Thin_Plat.Thin_Plat
+[2021.09.08-20.46.00:347][627]LogSlate: Window 'Thin_Plat' being destroyed
+[2021.09.08-20.46.00:351][627]LogSlate: Window 'Thin_Plat' being destroyed
+[2021.09.08-20.46.00:353][627]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.08-20.46.00:354][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.08-20.51.42:569][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.09.08-20.51.42:591][146]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto5F7BC0BD142D9C99C0DD41CA3CAFAEA96.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.09.08-20.51.42:594][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2021.09.08-20.51.42:594][146]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.09.08-20.53.01:992][908]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.01:992][908]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.07:444][229]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.07:444][229]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.15:467][704]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.15:467][704]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.20:695][ 12]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.20:695][ 12]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.24:248][219]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.24:248][219]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.26:228][333]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.26:228][333]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.28:230][451]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.28:230][451]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.29:966][553]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.29:966][553]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.32:770][719]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.32:770][719]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.34:632][829]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.34:632][829]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.36:286][928]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.36:286][928]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.37:491][998]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.37:491][998]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.39:497][118]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.39:497][118]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.53.43:628][364]Cmd: TRANSACTION UNDO
+[2021.09.08-20.53.43:628][364]LogEditorTransaction: Undo Create Actors
+[2021.09.08-20.55.37:651][199]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.55.38:296][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.08-20.55.48:528][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.08-20.55.49:749][919]Cmd: DELETE
+[2021.09.08-20.55.49:749][919]Cmd: ACTOR DELETE
+[2021.09.08-20.55.49:754][919]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.55.49:768][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.09.08-20.55.49:778][919]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.09.08-20.55.50:834][982]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.57.28:699][851]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.08-20.57.52:158][250]Cmd: ACTOR ALIGN VERTS
+[2021.09.08-20.57.55:887][473]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=32
+[2021.09.08-20.57.56:892][533]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2021.09.08-20.58.08:075][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.58.36:882][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.08-20.58.50:112][719]Cmd: DELETE
+[2021.09.08-20.58.50:112][719]Cmd: ACTOR DELETE
+[2021.09.08-20.58.50:118][719]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.58.50:118][719]LogEditorActor: Deleted Actor: Brush
+[2021.09.08-20.58.50:133][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.09.08-20.58.50:142][719]LogEditorActor: Deleted 2 Actors (0.029 secs)
+[2021.09.08-21.01.42:757][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.08-21.01.42:779][ 71]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_Auto65F0265824CBAFDFA183189ADFD2EB55A.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.09.08-21.01.42:780][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.09.08-21.01.42:780][ 71]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.08-21.07.54:733][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.08-21.07.54:756][779]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMapD39970F3483F6202E921AFBDB52F8C31.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.08-21.07.55:078][779]LogSavePackage: Moving 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Saved/ThirdPersonExampleMap_BuiltData3CA3E82B45EF5C8DB12657BD03572242.tmp' to 'D:/Users/Owner/Desktop/Github Repos/DGM-2221/RollingStone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.08-21.07.55:087][779]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.08-21.07.55:087][779]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.08-21.07.55:087][779]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
